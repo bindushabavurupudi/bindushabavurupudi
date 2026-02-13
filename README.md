@@ -35,4 +35,4 @@
 
 ---
 
-⭐️ From [Bindusha Bavurupudi]([https://github.com/YOUR_USERNAME](https://github.com/bindushabavurupudi))
+⭐️ From [Bindusha Bavurupudi](https://github.com/YOUR_USERNAME](https://github.com/bindushabavurupudi)
