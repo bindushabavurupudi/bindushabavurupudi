@@ -30,9 +30,9 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: www.linkedin.com/in/bindusha-bavurupudi
+- 📧 Email: bindushabavurupudi2006@gmail.com
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [Bindusha Bavurupudi]([https://github.com/YOUR_USERNAME](https://github.com/bindushabavurupudi))
